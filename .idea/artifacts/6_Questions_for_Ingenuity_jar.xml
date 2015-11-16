@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="6_Questions_for_Ingenuity:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/6_Questions_for_Ingenuity_jar</output-path>
+    <root id="archive" name="6_Questions_for_Ingenuity.jar">
+      <element id="module-output" name="6_Questions_for_Ingenuity" />
+    </root>
+  </artifact>
+</component>
