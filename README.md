@@ -1,0 +1,3 @@
+# 6_Questions_for_Ingenuity
+### NOT RECOMMEND TO READING THIS CODE
+### YOU CAN SEE REAL MAGIC
